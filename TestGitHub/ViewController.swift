@@ -15,6 +15,7 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         print("Cannot wait to put this project to GitHub")
+        print("Another comments")
     }
 
     override var representedObject: AnyObject? {
